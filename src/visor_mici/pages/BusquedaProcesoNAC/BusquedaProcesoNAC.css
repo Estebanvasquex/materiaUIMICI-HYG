@@ -1,0 +1,58 @@
+/* styles.css */
+
+
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.cardContent {
+    width: 796.14px;
+    height: 553px;
+    top: 111px;
+    left: 381px;
+    border-radius: 17.56px;
+}
+
+.cardHeaderTitle {
+
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    font-size: 17.56px;
+    line-height: 20.57px;
+    color: #022E85;
+}
+
+
+.btn-buscar {
+    font-size: 13.76px;
+    line-height: 16.12px;
+    width: 100px;
+    height: 34.4px;
+    background: linear-gradient(#231663, #0092FF);
+    border-radius: 10%; 
+    color: white;
+}
+
+.btn-proceso-NAC {
+    width: 140px;
+    height: 34.4px;
+    border-radius: 0.86px;
+    border: 0.86px;
+    background-color: fff;
+}
+
+
+.label-form{
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.table-colum-mici{
+    font-size: 10.3px;
+    text-align: center;
+}
+
